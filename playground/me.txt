@@ -1,0 +1,5 @@
+{{#user}}
+Name: Ajeesh MJ
+Skills: React.js, HTML, CSS, JS, Next.js, Tailwind CSS, MySql,TypeScript
+Email: ajeeshjayanm@gmail.com
+{{/user}}
